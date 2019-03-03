@@ -73,10 +73,14 @@ accurately how far you got.
 
 ❖ If your program is complete, the accuracy of a simple baseline that assigns to each word its
 most frequent tag (according to the large training data)
+
 There will be two links for submission on Canvas:
+
 1. Please save your full code as PDF (plain text) and submit it by itself.
+
 2. Please Submit a zip file that includes all your files, Viterbi.py, baseline.py, Viterbi.answers,
 and Viterbi.large.answers , but do not include the data files.
+
 3. Four screenshots showing the four runs of the two programs (baseline on the smaller
 training set, viterbi on the smaller training set, baseline on the larger training set, and
 viterbi on the larger training set) (whether succeeded or failed), and the output or part of
@@ -84,10 +88,16 @@ the output (as your screenshot allows). Please make sure the date is shown in th
 screenshots.
 
 General Grading Criteria:
+
 ● Submitting all required files (even with a non-compiling code): 15/70.
+
 ● A reasonable attempt and a reasonable code that doesn’t compile: 35-40/70.
+
 ● A reasonable program/code , which runs successfully, but doesn’t give the correct output:
+
 (45-50/70) (ex: few mistakes in functions or metrics, accuracy rates not rational, etc.)
+
 ● A successful program with the correct output, but not fulfilling all requirements (ex:
 Write- up not complete, etc.):60/70.
+
 ● A program fulfilling all the requirements: 70/70.
